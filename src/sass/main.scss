@@ -1,0 +1,10 @@
+@import "default";
+@import "normalize";
+
+.header {
+    background-color: #efefef;
+
+    &__title {
+        color: red;
+    }
+}
